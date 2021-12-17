@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/nessoty/noese",
-  "repository": "https://github.com/nessoty/noese",
+  "website": "https://github.com/bsrocsh/dabotuer",
+  "repository": "https://github.com/bsrocsh/dabotuer",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
